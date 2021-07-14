@@ -77,6 +77,7 @@
 
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -100,6 +101,16 @@ This section should list any major frameworks that you built your project using.
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
 
+
+## Contract Address
+
+<!-- Contract Address title -->
+
+
+**0x90b7E6fd704767740eb67900f3ac90B6BdFAF5F0**
+
+
+THIS IS THE ADDRESS FOR THE CONTRACT
 
 
 <!-- GETTING STARTED -->
@@ -169,12 +180,7 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-## Contract Address
 
-<!-- Contract Address title -->
-
-
-**0x90b7E6fd704767740eb67900f3ac90B6BdFAF5F0**
 
 <!-- CONTACT -->
 ## Contact
